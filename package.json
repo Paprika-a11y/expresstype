@@ -13,6 +13,7 @@
   },
   "scripts": {
     "build": "tsc --project ./"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
