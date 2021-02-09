@@ -12,8 +12,7 @@
     "typescript": "^4.1.3"
   },
   "scripts": {
-    "build": "tsc --project ./",
-    "start": "node index.js"
+    "build": "tsc --project ./"
   },
   "keywords": [],
   "author": "",
